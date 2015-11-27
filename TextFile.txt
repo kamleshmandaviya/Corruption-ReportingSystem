@@ -1,0 +1,11 @@
+﻿radio1	Abuse of public funds and/or resources.
+radio2	Abuse of assets.
+radio3	Abusing a position.
+
+radio4	Corruption to get a job.
+radio5
+
+radio6	Corruption to get a tender
+radio7	Irregularities related to a tender process
+
+radio8	A bribe was involved
